@@ -271,7 +271,7 @@ const threadsAPI = new ThreadsAPI.ThreadsAPI({});
   - [x] ✅ Create new Thread with text
     - [x] ✅ Make link previews to get shown
   - [x] ✅ Create new Thread with a single image
-  - [ ] 🚧 Create new Thread with a multiple images
+  - [ ] 🚧 Create new Thread with multiple images
   - [x] ✅ Reply to existing Thread
   - [x] ✅ Delete Thread
 - [x] ✅ Friendships
@@ -279,8 +279,8 @@ const threadsAPI = new ThreadsAPI.ThreadsAPI({});
   - [x] ✅ Unfollow User
 - [x] ✅ Interactions
   - [x] ✅ Like Thread
-  - [x] ✅ Unike Thread
-- [x] 🏴‍☠️ Restructure project as an monorepo
+  - [x] ✅ Unlike Thread
+- [x] 🏴‍☠️ Restructure project as a monorepo
   - [x] 🏴‍☠ Add Demo App with Next.js
     - [x] Use components in 🏴‍☠️ [junhoyeo/react-threads](https://github.com/junhoyeo/react-threads)
     - [ ] Make it better
